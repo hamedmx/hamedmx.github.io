@@ -16,8 +16,8 @@ I am a Ph.D. candidate in Computer Engineering at Toronto Metropolitan Universit
 - Model uncertainty quantification derived from CP prediction sets (AAAI Symposium Series 2023).
 
 ### Selected links
-- Publications: [/publications/](/publications/)
-- [CV](/cv/)
-- GitHub: https://github.com/hamedmx
+- [Publications](/publications/)
+- [Curriculum Vitae](/cv/)
+- [GitHub](https://github.com/hamedmx)
 
   
