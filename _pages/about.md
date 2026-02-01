@@ -12,10 +12,11 @@ I am a Ph.D. candidate in Computer Engineering at Toronto Metropolitan Universit
 </div>
 
 ### Research Highlights
-- Spatially-adaptive conformal prediction for medical image segmentation (SACP; accepted at MIDL 2025).
-- Evidential Conformal Prediction (ECP) for efficient, adaptive prediction sets in deep classification (COPA 2024).
-- Adversarial Robustness via diverse ensembles + noisy logits (ACML 2024).
-- Model uncertainty quantification derived from CP prediction sets (AAAI Symposium Series 2023).
+- Model uncertainty quantification derived from CP prediction sets.
+- OOD detection using information-theoretic and evidential class properties.
+- Spatially-adaptive conformal prediction for medical image segmentation.
+- Evidential Conformal Prediction (ECP) for efficient, adaptive prediction sets in deep classification.
+- Adversarial Robustness via diverse ensembles and noisy logits.
 
 ### Selected Links
 - [Publications](/publications/)
