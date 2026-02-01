@@ -3,7 +3,7 @@ title: "Ontology Alignment Using Inductive Logic Programming"
 collection: publications
 category: conferences
 permalink: /publication/2018-ilp-ontology-icwr
-excerpt: "Ontology alignment using a learning-based approach wi:contentReference[oaicite:21]{index=21}amming."
+excerpt: "Mapping ontologies using inverse resolution in inductive logic programming."
 date: 2018-04-01
 venue: "International Conference on Web Research (ICWR), IEEE"
 doi: "https://doi.org/10.1109/ICWR.2018.8387247"
