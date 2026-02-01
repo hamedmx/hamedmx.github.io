@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+<div class="justify-text">
 I am a Ph.D. candidate in Computer Engineering at Toronto Metropolitan University (TMU), affiliated with the Trustworthy AI Laboratory (TAILab). My research focuses on confidence and uncertainty quantification in deep neural networks, with emphasis on conformal prediction & risk control, evidential and Bayesian methods, and information-theoretic uncertainty. I am also interested in LLM uncertainty, calibration, OOD detection, adversarial robustness, and interpretability.
+</div>
 
 ### Research Highlights
 - Spatially-adaptive conformal prediction for medical image segmentation (SACP; accepted at MIDL 2025).
