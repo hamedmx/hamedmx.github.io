@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="justify-text">
-I am a Ph.D. candidate in Computer Engineering at Toronto Metropolitan University (TMU), affiliated with the Trustworthy AI Laboratory (TAILab). My research focuses on confidence and uncertainty quantification in deep neural networks, with emphasis on conformal prediction and risk control, evidential and Bayesian methods, and information-theoretic uncertainty. I am also interested in LLM uncertainty, calibration, OOD detection, adversarial robustness, and interpretability.
+I am a Ph.D. candidate in Computer Engineering at Toronto Metropolitan University (TMU), affiliated with the Trustworthy AI Laboratory (TAILab). My research focuses on confidence and uncertainty quantification in deep neural networks, with emphasis on conformal prediction and risk control, evidential and Bayesian methods, and information-theoretic uncertainty. I am also interested in uncertainty in LLMs, OOD detection, calibration, adversarial robustness, and interpretability in machine learning.
 </div>
 
 ### Research Highlights
