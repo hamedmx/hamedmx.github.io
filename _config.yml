@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Hamed Karimi"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Computer Engineering at Toronto Metropolitan University. Research: uncertainty quantification, conformal prediction & risk control, evidential/Bayesian deep learning, calibration, OOD Detection, Adversarial robustness, and LLM uncertainty."
-  location         : "Toronto, Ontario, Canada"
+  bio              : "Ph.D. Candidate (Research Assistant) in Computer Engineering, working on uncertainty quantification in trustworthy machine learning. # Conformal Prediction & risk control, evidential/Bayesian deep learning, calibration, OOD Detection, Adversarial robustness, and LLM uncertainty."  
   employer         : "Toronto Metropolitan University"
+  location         : "Toronto, Ontario, Canada"
   uri              : # URL
   email            : "hamed.karimi@torontomu.ca" 
 
