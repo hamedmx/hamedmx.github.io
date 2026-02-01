@@ -16,6 +16,7 @@ I am a Ph.D. candidate in Computer Engineering at Toronto Metropolitan Universit
 - OOD detection using information-theoretic and evidential class properties.
 - Spatially-adaptive conformal prediction for medical image segmentation.
 - Evidential Conformal Prediction (ECP) for efficient, adaptive prediction sets in deep classification.
+- LLM uncertainty quantification using adaptive conformal semantic entropy for prompt-level decision making and response-level prediction sets.
 - Adversarial Robustness via diverse ensembles and noisy logits.
 
 ### Selected Links
