@@ -5,10 +5,10 @@ category: manuscripts
 permalink: /publication/2019-eswa-ilp-ontology
 excerpt: "Ontology alignment via learning with Inductive Logic Programming (ILP)."
 date: 2019-02-01
-venue: "Expert Systems with Applications (ESWA), Elsevier"
+venue: "Journal of Expert Systems with Applications (ESWA), Elsevier"
 doi: "https://doi.org/10.1016/j.eswa.2019.02.014"
 paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S0957417419301198"
-citation: 'Karimi, H., & Kamandi, A. (2019). “A Learning-based Ontology Alignment Approach Using Inductive Logic Programming.” Expert Systems with Applications, 125(C), 412–424.'
+citation: 'Karimi, H., & Kamandi, A. (2019). “A Learning-based Ontology Alignment Approach Using Inductive Logic Programming.” Journal of Expert Systems with Applications (ESWA), Elsevier, 125(C), 412–424.'
 ---
 
 <!-- Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected. -->
