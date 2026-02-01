@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-My work centers on **trustworthy AI** with emphasis on uncertainty quantification** and **distribution-free reliability guarantees**.
+My work centers on **trustworthy AI** with emphasis on uncertainty quantification and **distribution-free reliability guarantees**.
 
 ### Themes
 - Conformal prediction & risk control
