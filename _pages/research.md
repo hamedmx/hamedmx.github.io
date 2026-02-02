@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Research Activities"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
 <div class="justify-text">
-My research focuses on **trustworthy AI and machine learning** with an emphasis on **uncertainty quantification**, **conformal prediction and risk control (distribution-free reliability guarantees)**, **evidential deep learning**, and **robust machine learning**. I develop methods that provide reliable decision-making signals such as prediction sets, abstention rules, calibrated uncertainty measures, and OOD scoring, for deep models through optimization and/or post-hoc techniques in classification, medical imaging, and language models.
+My research focuses on **trustworthy AI and machine learning** with an emphasis on <i>uncertainty quantification</i>, **conformal prediction and risk control (distribution-free reliability guarantees)**, **evidential deep learning**, and **robust machine learning**. I develop methods that provide reliable decision-making signals such as prediction sets, abstention rules, calibrated uncertainty measures, and OOD scoring, for deep models through optimization and/or post-hoc techniques in classification, medical imaging, and language models.
 </div>
 
 ### Research Themes
