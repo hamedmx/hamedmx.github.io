@@ -21,6 +21,13 @@ author_profile: true
 
 ## Oral and Poster Presentations
 
+### Localized Uncertainty Quantification in Medical Image Segmentation via Adaptive Conformal Prediction
+  <div class="cv-meta">
+    <span class="where">Vector Institute Research Symposium, Toronto, ON, Canada</span>
+    <span class="when">2025</span>
+  </div>
+  <p class="item-desc">Poster presentation at the Vector Institute Research Symposium.</p>
+  
 <div class="item-block">
   <p class="item-title"><strong>Localized Uncertainty Quantification in Medical Image Segmentation via Adaptive Conformal Prediction</strong></p>
   <div class="cv-meta">
