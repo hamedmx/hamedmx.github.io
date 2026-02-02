@@ -76,3 +76,15 @@
   text-align: right;
 }
 
+/* Consistent list cards for Talks/Teaching */
+.item-block { margin: 0 0 1.1rem; }
+.item-title { margin: 0 0 0.15rem; }
+.item-desc  { margin: 0.25rem 0 0; }
+
+.item-links {
+  margin: 0.2rem 0 0;
+  font-size: 0.9em;
+}
+
+.item-links a { text-decoration: underline; }
+
