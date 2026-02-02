@@ -104,18 +104,17 @@ Participated in a privacy-preserving learning hackathon focused on safe informat
   </p>
   
   <div class="cv-meta">
-    <span class="where">UN PET Lab</span>
+    <span class="where">UN PET Lab (virtual)</span>
     <span class="when">Dec. 2022</span>
   </div>
 
 ### The 1st OpenMined International Conference on Privacy (PriCon)
 
   <div class="cv-meta">
-    <span class="where">OpenMined</span>
+    <span class="where">OpenMined (virtual)</span>
     <span class="when">Sep 2020</span>
   </div>
   <!-- <p class="item-desc">The 1st International Conference on Privacy (PriCon).</p> -->
-</div>
 
 ### The 4th International Conference on Web Research (ICWR)
 
@@ -124,5 +123,5 @@ Participated in a privacy-preserving learning hackathon focused on safe informat
     <span class="when">Apr 2018</span>
   </div>
   <!-- <p class="item-desc">Attended the 4th International Conference on Web Research (ICWR).</p> -->
-</div>
+
 
