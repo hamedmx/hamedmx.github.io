@@ -91,7 +91,7 @@ Teaching Assistant
 </div>
 
 
-## Seneca Polytechnic (Toronto, ON, Canada)
+## Seneca Polytechnic College
 
 ### Data Structures and Algorithms (Python Programming)
 
@@ -123,7 +123,7 @@ Part-time Professor
 </div>
 
 
-## University of Tehran (UT), Tehran, Iran
+## University of Tehran (UT)
 
 ### Semantic Web
 
@@ -144,7 +144,7 @@ Teaching Assistant
 </div>
 
 
-## Shahid Beheshti University (SBU), Tehran, Iran
+## Shahid Beheshti University (SBU)
 
 ### Database Lab
 
