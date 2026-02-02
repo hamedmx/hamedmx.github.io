@@ -21,6 +21,95 @@ My research focuses on **trustworthy AI and machine learning** with an emphasis 
 - Adaptive conformal semantic entropy for LLM uncertainty calibration
 - Adaptive conformal risk control in LLMs
 
+## Research Experience
+
+### Evidential Out-of-Distribution Detection Using Misclassification Cost and Information-Theoretic Regularization
+<div class="cv-meta">
+  <span class="where"><strong>Toronto Metropolitan University (TAILab), Toronto, ON, Canada</strong></span>
+  <span class="when"><em>Winter 2025 – Present</em></span>
+</div>
+<div class="justify-text">
+Developing an evidential OOD detection framework for deep classifiers by introducing a <i>class-wise misclassification cost</i> and evidential regularizer that reshape evidence allocation during training. The method uses a <i>two-factor OOD score</i> combining evidence scarcity and class conflict at inference, with theoretical analysis linking regularizer gradients to evidence dynamics and improved ID–OOD separability.
+</div>
+
+### Uncertainty Quantification in Language Models Using Adaptive Conformal Semantic Entropy
+<div class="cv-meta">
+  <span class="where"><strong>Toronto Metropolitan University (TAILab), Toronto, ON, Canada</strong></span>
+  <span class="when"><em>Fall 2025 – Winter 2026</em></span>
+</div>
+Designed an adaptive **Semantic Entropy** framework that estimates LLM uncertainty using dispersion of sentence embeddings over clustered generations, then **inflates/adjusts uncertainty** to improve conservativeness and mitigate hallucinations. The approach applies **conformal calibration** to obtain distribution-free, guaranteed **prompt-level accept/abstain** decisions and **response-level prediction sets**.
+
+### HEAR: Hybrid Ensemble Adversarial Robustness in Neural Networks
+<div class="cv-meta">
+  <span class="where"><strong>Toronto Metropolitan University (TAILab), Toronto, ON, Canada</strong></span>
+  <span class="when"><em>Summer 2025 – Present</em></span>
+</div>
+Proposing a hybrid ensemble defense combining variable Gaussian augmentation and temperature-scaled distillation with noisy logits and a robust weighted ensemble at inference. Extends randomized smoothing to ensembles to improve certified accuracy, robustness radius, and resistance to strong white-box attacks on image classification benchmarks.
+
+### SACP: Spatially-Adaptive Conformal Prediction in Uncertainty Quantification of Medical Image Segmentation
+<div class="cv-meta">
+  <span class="where"><strong>Toronto Metropolitan University (TAILab), Toronto, ON, Canada</strong></span>
+  <span class="when"><em>Fall 2024 – Summer 2025</em></span>
+</div>
+Developed a spatially-adaptive conformal prediction framework for medical image segmentation that augments standard CP with class-conditional calibration and distance-weighted nonconformity scores. Produces anatomically informed prediction sets that expand near critical tumor–vessel interfaces while preserving finite-sample coverage guarantees across multi-centre pancreatic tumor datasets.
+
+### Model Uncertainty Quantification in Deep Neural Networks Using Evidential Properties and Conformal Prediction
+<div class="cv-meta">
+  <span class="where"><strong>Toronto Metropolitan University (TAILab), Toronto, ON, Canada</strong></span>
+  <span class="when"><em>Fall 2023 – Fall 2024</em></span>
+</div>
+Designed conformal nonconformity scores that incorporate evidential and information-theoretic properties to quantify model (epistemic) uncertainty in deep classifiers. Generates adaptive prediction sets while maintaining empirical coverage of the ground truth.
+
+### Certified Robustness in Deep Neural Networks Using Diverse Ensemble and Noisy Logits
+<div class="cv-meta">
+  <span class="where"><strong>Toronto Metropolitan University (TAILab), Toronto, ON, Canada</strong></span>
+  <span class="when"><em>Winter 2024</em></span>
+</div>
+Proposed a two-phase training method: train architecturally diversified models individually, then train the ensemble with a diversity-promoting loss. Combined with noise injection at inference, this improves resistance to adversarial attacks while maintaining reasonable accuracy.
+
+### Quantifying Deep Learning Model Uncertainty in Conformal Prediction
+<div class="cv-meta">
+  <span class="where"><strong>Toronto Metropolitan University (TAILab), Toronto, ON, Canada</strong></span>
+  <span class="when"><em>Spring – Summer 2023</em></span>
+</div>
+Proposed a probabilistic approach to quantify model uncertainty derived from conformal prediction sets and provided certified bounds for the computed uncertainty, enabling comparisons between CP-based uncertainty and other uncertainty quantification methods.
+
+### Evidence-based Model Predictive Confidence in Deep Classifiers
+<div class="cv-meta">
+  <span class="where"><strong>Toronto Metropolitan University (TAILab), Toronto, ON, Canada</strong></span>
+  <span class="when"><em>Winter 2021 – 2022</em></span>
+</div>
+Developed a method grounded in Dempster–Shafer theory of evidence and Subjective Logic to quantify predictive confidence by separating uncertainty due to ambiguous/conflicting information from uncertainty due to lack of sufficient information.
+
+### Ontology Alignment Using Word/Sentence Embedding Methods (M.Sc. Thesis)
+<div class="cv-meta">
+  <span class="where"><strong>University of Tehran, Tehran, Iran</strong></span>
+  <span class="when"><em>Winter 2019 – Summer 2020</em></span>
+</div>
+Proposed an approach to discover valid mappings between biomedical ontologies using Word2Vec-based representations and semantic similarity (Maximum Matching), combined with retrofitting using WordNet to improve alignment quality.
+
+### A Learning-based Approach for Ontology Alignment Using Inductive Logic Programming (ILP)
+<div class="cv-meta">
+  <span class="where"><strong>University of Tehran, Tehran, Iran</strong></span>
+  <span class="when"><em>Fall 2017 – 2018</em></span>
+</div>
+Developed an ontology mapping method based on Inductive Logic Programming (ILP): interpret OWL ontologies into first-order logic predicates, then apply inductive reasoning with background knowledge to discover hidden rules and propose valid alignments via structural similarities.
+
+### Implementing YAD: An Inductive Logic Programming Tool
+<div class="cv-meta">
+  <span class="where"><strong>University of Tehran, Tehran, Iran</strong></span>
+  <span class="when"><em>Summer 2018</em></span>
+</div>
+Implemented an ILP tool for multidimensional and multi-tabular learning using first-order logic representations of positive/negative examples to discover rules and relations.
+
+### Reinforcement Learning Approach in Multi-Agent Systems Based on Cooperation (B.Sc. Final Project)
+<div class="cv-meta">
+  <span class="where"><strong>Shahid Beheshti University, Tehran, Iran</strong></span>
+  <span class="when"><em>Summer 2016</em></span>
+</div>
+Studied cooperative multi-agent reinforcement learning and proposed an RL-based approach in the problem space (beyond the optimal point), analyzing performance and efficiency tradeoffs.
+
+
 
 ## Research Experience
 
