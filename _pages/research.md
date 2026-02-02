@@ -28,27 +28,27 @@ My research focuses on <i>trustworthy AI and machine learning</i> with an emphas
   <span class="where"><strong>Toronto Metropolitan University (TAILab), Toronto, ON, Canada</strong></span>
   <span class="when"><em>Winter 2025 – Present</em></span>
 </div>
-<div class="justify-text">
+
 Developing an evidential OOD detection framework for deep classifiers by introducing a <i>class-wise misclassification cost</i> and evidential regularizer that reshape evidence allocation during training. The method uses a <i>two-factor OOD score</i> combining evidence scarcity and class conflict at inference, with theoretical analysis linking regularizer gradients to evidence dynamics and improved ID–OOD separability.
-</div>
+
 
 ### Uncertainty Quantification in Language Models Using Adaptive Conformal Semantic Entropy
 <div class="cv-meta">
   <span class="where"><strong>Toronto Metropolitan University (TAILab), Toronto, ON, Canada</strong></span>
   <span class="when"><em>Fall 2025 – Winter 2026</em></span>
 </div>
-<div class="justify-text">
+
 Designed an adaptive <i>Semantic Entropy</i> framework that estimates LLM uncertainty using dispersion of sentence embeddings over clustered generations, then <i>inflates/adjusts uncertainty</i> to improve conservativeness and mitigate hallucinations. The approach applies <i>conformal calibration</i> to obtain distribution-free, guaranteed <i>prompt-level accept/abstain** decisions and <i>response-level prediction sets</i>.<br><i>Ongoing work includes guaranteed risk control for generative tasks.</i>
-</div>
+
   
 ### HEAR: Hybrid Ensemble Adversarial Robustness in Neural Networks
 <div class="cv-meta">
   <span class="where"><strong>Toronto Metropolitan University (TAILab), Toronto, ON, Canada</strong></span>
   <span class="when"><em>Summer 2025 – Present</em></span>
 </div>
-<div class="justify-text">
+
 Proposing a hybrid ensemble defense combining variable Gaussian augmentation and temperature-scaled distillation with noisy logits and a robust weighted ensemble at inference. Extends randomized smoothing to ensembles to improve certified accuracy, robustness radius, and resistance to strong white-box attacks on image classification benchmarks.
-</div>
+
 
 ### SACP: Spatially-Adaptive Conformal Prediction in Uncertainty Quantification of Medical Image Segmentation
 <div class="cv-meta">
