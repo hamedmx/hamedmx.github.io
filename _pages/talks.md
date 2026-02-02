@@ -103,7 +103,7 @@ author_profile: true
     <span class="where">UN PET Lab</span>
     <span class="when">Dec. 2022</span>
   </div>
-  <p class="item-desc">
+  <p class="justify-text">
 Participated in a privacy-preserving learning hackathon focused on safe information sharing and training models under differential privacy constraints (epsilon privacy budget). The setting involved unknown training labels with multiple queries and evaluation on an unseen test set with a score based on accuracy, parameter values, and privacy budget spent.
   </p>
 </div>
