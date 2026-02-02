@@ -139,17 +139,17 @@ Under review; Number of Pages: —; Submission Date: February —, 2026; Manuscr
 
 
 ## Conferences and Presentations
-(Full details are listed in the Talks tab.)
+Full details are listed in the Talks tab.
 
 
 
 ## Research Experience
-(Full details are listed in the Research tab.)
+Full details are listed in the Research tab.
 
 
 
 ## Teaching Experience
-(Full details are listed in the Teaching tab.)
+Full details are listed in the Teaching tab.
 
 
 
