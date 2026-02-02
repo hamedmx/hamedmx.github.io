@@ -97,7 +97,7 @@ Teaching Assistant
 Part-time Professor 
 
 <div class="cv-meta">
-  <span class="where">Course Instructor (Part-time Professor), Seneca Polytechnic — Toronto, ON, Canada</span>
+  <span class="where">Seneca Polytechnic — Toronto, ON, Canada</span>
   <span class="when">Winter 2025 – Present</span>
 </div>
 
@@ -107,7 +107,7 @@ Part-time Professor
 Part-time Professor 
 
 <div class="cv-meta">
-  <span class="where">Course Instructor (Part-time Professor), Seneca Polytechnic — Toronto, ON, Canada</span>
+  <span class="where">Seneca Polytechnic — Toronto, ON, Canada</span>
   <span class="when">Summer 2024 – Winter 2025</span>
 </div>
 
@@ -117,7 +117,7 @@ Part-time Professor
 Part-time Professor 
 
 <div class="cv-meta">
-  <span class="where">Course Instructor (Part-time Professor), Seneca Polytechnic — Toronto, ON, Canada</span>
+  <span class="where">Seneca Polytechnic — Toronto, ON, Canada</span>
   <span class="when">Fall 2023 – Fall 2024</span>
 </div>
 
@@ -129,7 +129,7 @@ Part-time Professor
 Teaching Assistant
 
 <div class="cv-meta">
-  <span class="where">Teaching Assistant, University of Tehran — Tehran, Iran</span>
+  <span class="where">University of Tehran — Tehran, Iran</span>
   <span class="when">Fall 2017 – 2019</span>
 </div>
 
@@ -138,7 +138,7 @@ Teaching Assistant
 Teaching Assistant
 
 <div class="cv-meta">
-  <span class="where">Teaching Assistant, University of Tehran — Tehran, Iran</span>
+  <span class="where">University of Tehran — Tehran, Iran</span>
   <span class="when">Fall 2017 – 2019</span>
 </div>
 
@@ -150,7 +150,7 @@ Teaching Assistant
 Teaching Assistant
 
 <div class="cv-meta">
-  <span class="where">Teaching Assistant, Shahid Beheshti University — Tehran, Iran</span>
+  <span class="where">Shahid Beheshti University — Tehran, Iran</span>
   <span class="when">Fall 2012 – Summer 2015</span>
 </div>
 
@@ -159,7 +159,7 @@ Teaching Assistant
 Teaching Assistant
 
 <div class="cv-meta">
-  <span class="where">Teaching Assistant, Shahid Beheshti University — Tehran, Iran</span>
+  <span class="where">Shahid Beheshti University — Tehran, Iran</span>
   <span class="when">Fall 2012 – Summer 2015</span>
 </div>
 
@@ -168,7 +168,7 @@ Teaching Assistant
 Teaching Assistant
 
 <div class="cv-meta">
-  <span class="where">Teaching Assistant, Shahid Beheshti University — Tehran, Iran</span>
+  <span class="where">Shahid Beheshti University — Tehran, Iran</span>
   <span class="when">Fall 2012 – Summer 2015</span>
 </div>
 
