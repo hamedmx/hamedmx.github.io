@@ -32,7 +32,8 @@ Optional links (add only if needed):
 
 ### EE8223 — Deep Learning (Graduate Course)
 
-Course Instructor (Part-time Lecturer)<br>Covering modern neural networks, training/validation, CNNs, RNNs, transformers, and applications in vision and NLP.
+* Course Instructor (Part-time Lecturer)
+  * Covering modern neural networks, training/validation, CNNs, RNNs, transformers, and applications in vision and NLP.
 
 <div class="cv-meta">
   <span class="where">Toronto Metropolitan University — Toronto, ON, Canada</span>
