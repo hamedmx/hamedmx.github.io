@@ -5,10 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
+<div class="justify-text">
 My research focuses on **trustworthy AI and machine learning** with an emphasis on **uncertainty quantification**, **conformal prediction and risk control (distribution-free reliability guarantees)**, **evidential deep learning**, and **robust machine learning**. I develop methods that provide reliable decision-making signals such as prediction sets, abstention rules, calibrated uncertainty measures, and OOD scoring, for deep models through optimization and/or post-hoc techniques in classification, medical imaging, and language models.
+</div>
 
 ### Research Themes
-- Conformal prediction & risk control
+- Conformal prediction and risk control
 - Evidential/Bayesian deep learning for epistemic uncertainty
 - OOD detection & robustness
 - Uncertainty in large language models (LLMs)
@@ -24,7 +26,10 @@ My research focuses on **trustworthy AI and machine learning** with an emphasis 
 
 ### Evidential Out-of-Distribution Detection Using Misclassification Cost and Information-Theoretic Regularization  
 **Toronto Metropolitan University (TAILab), Toronto, ON, Canada** — *Winter 2025 – Present*  
-Developing an evidential OOD detection framework for deep classifiers by introducing a **class-wise misclassification cost** and evidential regularizer that reshape evidence allocation during training. The method uses a **two-factor OOD score** combining evidence scarcity and class conflict at inference, with theoretical analysis linking regularizer gradients to evidence dynamics and improved ID–OOD separability.
+<br>
+<div class="justify-text">
+Developing an evidential OOD detection framework for deep classifiers by introducing a <b>class-wise misclassification cost</b> and evidential regularizer that reshape evidence allocation during training. The method uses a **two-factor OOD score** combining evidence scarcity and class conflict at inference, with theoretical analysis linking regularizer gradients to evidence dynamics and improved ID–OOD separability.
+</div>
 
 ### Uncertainty Quantification in Language Models Using Adaptive Conformal Semantic Entropy  
 **Toronto Metropolitan University (TAILab), Toronto, ON, Canada** — *Fall 2025 – Winter 2026*  
