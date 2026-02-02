@@ -77,7 +77,7 @@ Teaching Assistant
 
 <div class="cv-meta">
   <span class="where">Toronto Metropolitan University — Toronto, ON, Canada</span>
-  <span class="when">Fall 2021 – Present</span>
+  <span class="when">Winter 2022 – Present</span>
 </div>
 
 
