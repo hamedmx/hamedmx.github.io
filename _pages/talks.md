@@ -95,7 +95,7 @@ Optional links (add only if needed):
     <span class="when">Sep. 2024</span>
   </div>
   <!-- <p class="item-desc">Attended the 13th Conference of Medical Imaging with Deep Learning (MIDL).</p> -->
-</div>
+
 
 ### UN PET Lab: Hackathon Competition
 
