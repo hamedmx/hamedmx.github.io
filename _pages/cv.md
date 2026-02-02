@@ -138,7 +138,7 @@ Under review; Number of Pages: —; Submission Date: February —, 2026; Manuscr
 -->
 
 
-## Conferences & Presentations
+## Conferences and Presentations
 (Full details are listed in the Talks tab.)
 
 
@@ -153,7 +153,7 @@ Under review; Number of Pages: —; Submission Date: February —, 2026; Manuscr
 
 
 
-## Professional Skills & Academic Projects
+## Professional Skills and Academic Projects
 
 ### Programming Languages
 <div class="cv-meta">
@@ -182,6 +182,52 @@ Under review; Number of Pages: —; Submission Date: February —, 2026; Manuscr
 * Implemented database projects with MySQL and Redis (NoSQL).
 
 
+## Certifications and Related Skills
+
+### Network+ and CISCO CCNA (Route & Switch)
+
+Familiar with passive networking.
+
+<div class="cv-meta">
+  <span class="where">Cybertech Training Center</span>
+  <span class="when">Summer 2015</span>
+</div>
+
+
+## Work Experience and Extra-Curricular Activities
+
+### Teacher (Tutor) — High Schools and Private Institutions
+
+Mathematics, Physics, and Social Studies
+
+<div class="cv-meta">
+  <span class="where">Individually and in institutions including Mehr Mandegar and Nokhbegan Poorsina</span>
+  <span class="when">Fall 2016 – Summer 2020</span>
+</div>
+
+### High School and College Educational Consultancy
+
+Course consultancy, study planning, program selection for national annual university entrance exam
+
+<div class="cv-meta">
+  <span class="where">Khajeh Nasir educational institution</span>
+  <span class="when">Fall 2015</span>
+</div>
+
+### IT Technical Support — Hamayesh Afarinan Javid Company
+<div class="cv-meta">
+  <span class="where">9th Annual Clinical Oncology Congress, National Library and Archives of Iran</span>
+  <span class="when">Sep. 2014 - Sep. 2015</span>
+</div>
+
+### Internship
+
+Java SE Developer
+
+<div class="cv-meta">
+  <span class="where">Namaadiran Company, Tehran, Iran</span>
+  <span class="when">Summer 2014</span>
+</div>
 
 
 <!--
