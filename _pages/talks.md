@@ -22,11 +22,28 @@ author_profile: true
 ## Oral and Poster Presentations
 
 ### Localized Uncertainty Quantification in Medical Image Segmentation via Adaptive Conformal Prediction
+
+<p class="item-desc">Poster presentation at the Vector Institute Research Symposium.</p>
+  <!-- Optional links (add only if needed):
+  <p class="item-links"><a href="URL">Slides</a> · <a href="URL">Poster</a></p>
+  -->
+  
   <div class="cv-meta">
     <span class="where">Vector Institute Research Symposium, Toronto, ON, Canada</span>
     <span class="when">2025</span>
   </div>
-  <p class="item-desc">Poster presentation at the Vector Institute Research Symposium.</p>
+  
+### Evidential Uncertainty Sets in Deep Classifiers Using Conformal Prediction
+
+  <p class="item-desc">Oral presentation at COPA 2024.</p>
+  <!-- Optional links:
+  <p class="item-links"><a href="URL">Conference page</a> · <a href="URL">Slides</a></p>
+  -->
+  
+  <div class="cv-meta">
+    <span class="where">COPA 2024 (Symposium on Conformal and Probabilistic Prediction with Applications), Milan, Italy</span>
+    <span class="when">2024</span>
+  </div>
   
 <div class="item-block">
   <p class="item-title"><strong>Localized Uncertainty Quantification in Medical Image Segmentation via Adaptive Conformal Prediction</strong></p>
