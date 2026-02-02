@@ -48,12 +48,6 @@
   hyphens: auto;
 }
 
-.page__content p {
-  text-align: justify;
-  text-justify: inter-word;
-  hyphens: auto;
-}
-
 /* CV/Research meta line: left info + right-aligned dates, smaller font */
 .cv-meta {
   display: flex;
@@ -87,4 +81,11 @@
 }
 
 .item-links a { text-decoration: underline; }
+
+.page__content .item-desc,
+.page__content p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
 
