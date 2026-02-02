@@ -19,10 +19,10 @@ author_profile: true
 {% endfor %}
 -->
 
-## Oral & Poster Presentations
+## Oral and Poster Presentations
 
 <div class="item-block">
-  <p class="item-title"><strong>Localized Uncertainty Quantification in Medical Image Segmentation via Adaptive Conformal Prediction</strong> (Poster)</p>
+  <p class="item-title"><strong>Localized Uncertainty Quantification in Medical Image Segmentation via Adaptive Conformal Prediction</strong></p>
   <div class="cv-meta">
     <span class="where">Vector Institute Research Symposium, Toronto, ON, Canada</span>
     <span class="when">2025</span>
@@ -104,7 +104,7 @@ author_profile: true
     <span class="when">Dec. 2022</span>
   </div>
   <p class="item-desc">
-    Participated in a privacy-preserving learning hackathon focused on safe information sharing and training models under differential privacy constraints (epsilon privacy budget). The setting involved unknown training labels with multiple queries and evaluation on an unseen test set with a score based on accuracy, parameter values, and privacy budget spent.
+Participated in a privacy-preserving learning hackathon focused on safe information sharing and training models under differential privacy constraints (epsilon privacy budget). The setting involved unknown training labels with multiple queries and evaluation on an unseen test set with a score based on accuracy, parameter values, and privacy budget spent.
   </p>
 </div>
 
