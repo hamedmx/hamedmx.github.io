@@ -7,13 +7,13 @@ author_profile: true
 
 My research focuses on **trustworthy AI and machine learning** with an emphasis on **uncertainty quantification**, **conformal prediction and risk control (distribution-free reliability guarantees)**, **evidential deep learning**, and **robust machine learning**. I develop methods that provide reliable decision-making signals such as prediction sets, abstention rules, calibrated uncertainty measures, and OOD scoring, for deep models through optimization and/or post-hoc techniques in classification, medical imaging, and language models.
 
-### Themes
+### Research Themes
 - Conformal prediction & risk control
 - Evidential/Bayesian deep learning for epistemic uncertainty
 - OOD detection & robustness
 - Uncertainty in large language models (LLMs)
 
-### Ongoing Projects (selected)
+### Selected Ongoing Projects
 - Spatially-adaptive conformal prediction for medical image segmentation
 - Evidential OOD detection using misclassification cost through information-theoretic regularization
 - Adaptive conformal semantic entropy for LLM uncertainty calibration
