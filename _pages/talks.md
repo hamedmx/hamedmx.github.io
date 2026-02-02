@@ -24,9 +24,11 @@ author_profile: true
 ### Localized Uncertainty Quantification in Medical Image Segmentation via Adaptive Conformal Prediction
 
 <p class="item-desc">Poster presentation at the Vector Institute Research Symposium.</p>
-  <!-- Optional links (add only if needed):
-  <p class="item-links"><a href="URL">Slides</a> · <a href="URL">Poster</a></p>
-  -->
+{% comment %}
+Optional links (add only if needed):
+<p class="item-links"><a href="URL">Slides</a> · <a href="URL">Poster</a></p>
+{% endcomment %}
+
   
   <div class="cv-meta">
     <span class="where">Vector Institute Research Symposium, Toronto, ON, Canada</span>
@@ -36,9 +38,11 @@ author_profile: true
 ### Evidential Uncertainty Sets in Deep Classifiers Using Conformal Prediction
 
   <p class="item-desc">Oral presentation at COPA 2024.</p>
-  <!-- Optional links:
-  <p class="item-links"><a href="URL">Conference page</a> · <a href="URL">Slides</a></p>
-  -->
+{% comment %}
+Optional links (add only if needed):
+<p class="item-links"><a href="URL">Conference Page</a> · <a href="URL">Slides</a></p>
+{% endcomment %}
+
   
   <div class="cv-meta">
     <span class="where">COPA 2024 (Symposium on Conformal and Probabilistic Prediction with Applications), Milan, Italy</span>
