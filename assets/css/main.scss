@@ -41,8 +41,32 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
 .justify-text {
   text-align: justify;
   text-justify: inter-word;
   hyphens: auto;
 }
+
+/* CV/Research meta line: left info + right-aligned dates, smaller font */
+.cv-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  font-size: 0.9em;     /* smaller than normal text */
+  color: #666;          /* subtle gray */
+  margin: 0.15rem 0 0.4rem;
+}
+
+.cv-meta .where {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.cv-meta .when {
+  flex: 0 0 auto;
+  white-space: nowrap;  /* prevents wrapping of date range */
+  text-align: right;
+}
+
