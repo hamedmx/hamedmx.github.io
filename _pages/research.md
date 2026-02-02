@@ -38,7 +38,7 @@ Developing an evidential OOD detection framework for deep classifiers by introdu
   <span class="when"><em>Fall 2025 – Winter 2026</em></span>
 </div>
 
-Designed an adaptive <i>Semantic Entropy</i> framework that estimates LLM uncertainty using dispersion of sentence embeddings over clustered generations, then <i>inflates/adjusts uncertainty</i> to improve conservativeness and mitigate hallucinations. The approach applies <i>conformal calibration</i> to obtain distribution-free, guaranteed <i>prompt-level accept/abstain** decisions and <i>response-level prediction sets</i>.<br><i>Ongoing work includes guaranteed risk control for generative tasks.</i>
+Designed an adaptive <i>Semantic Entropy</i> framework that estimates LLM uncertainty using dispersion of sentence embeddings over clustered generations, then <i>inflates/adjusts uncertainty</i> to improve conservativeness and mitigate hallucinations. The approach applies <i>conformal calibration</i> to obtain distribution-free, guaranteed <i>prompt-level accept/abstain</i> decisions and <i>response-level prediction sets</i>.<br><i>Ongoing work includes guaranteed risk control for generative tasks.</i>
 
   
 ### HEAR: Hybrid Ensemble Adversarial Robustness in Neural Networks
@@ -64,9 +64,10 @@ Developed a spatially-adaptive conformal prediction framework for medical image 
   <span class="where"><strong>Toronto Metropolitan University (TAILab), Toronto, ON, Canada</strong></span>
   <span class="when"><em>Fall 2023 – Fall 2024</em></span>
 </div>
-<div class="justify-text">
+
+<p class="justify-text">
 Designed conformal nonconformity scores that incorporate evidential and information-theoretic properties to quantify model (epistemic) uncertainty in deep classifiers. Generates adaptive prediction sets while maintaining empirical coverage of the ground truth.<br><i>Ongoing direction includes conformal risk control for deployment</i>.
-</div>
+</p>
 
 ### Certified Robustness in Deep Neural Networks Using Diverse Ensemble and Noisy Logits
 <div class="cv-meta">
