@@ -89,7 +89,7 @@ author_profile: true
 ## Participation and Activities
 
 <div class="item-block">
-  <p class="item-title"><strong>Attended: The 13th Symposium on Conformal and Probabilistic Prediction with Applications (COPA)</strong></p>
+  <p class="item-title"><strong>The 13th Symposium on Conformal and Probabilistic Prediction with Applications (COPA)</strong></p>
   <div class="cv-meta">
     <span class="where">Polytechnic University of Milan (Polimi), Milan, Italy</span>
     <span class="when">Sep. 2024</span>
@@ -109,16 +109,16 @@ Participated in a privacy-preserving learning hackathon focused on safe informat
 </div>
 
 <div class="item-block">
-  <p class="item-title"><strong>Attended: The 1st OpenMined International Conference on Privacy (PriCon)</strong></p>
+  <p class="item-title"><strong>=The 1st OpenMined International Conference on Privacy (PriCon)</strong></p>
   <div class="cv-meta">
     <span class="where">OpenMined</span>
     <span class="when">Sep 2020</span>
   </div>
-  <!-- <p class="item-desc">Attended the 1st International Conference on Privacy (PriCon).</p> -->
+  <!-- <p class="item-desc">The 1st International Conference on Privacy (PriCon).</p> -->
 </div>
 
 <div class="item-block">
-  <p class="item-title"><strong>Attended: The 4th International Conference on Web Research (ICWR)</strong></p>
+  <p class="item-title"><strong>The 4th International Conference on Web Research (ICWR)</strong></p>
   <div class="cv-meta">
     <span class="where">University of Science and Culture, Tehran, Iran</span>
     <span class="when">Apr 2018</span>
