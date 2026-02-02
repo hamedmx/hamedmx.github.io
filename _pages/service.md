@@ -61,7 +61,7 @@ author_profile: true
 </div>
 
 
-## Professional Service (Reviewing)
+## Professional Services
 
 ### Conference Reviewer
 <div class="cv-meta">
@@ -84,55 +84,9 @@ author_profile: true
   <span class="when">2023</span>
 </div>
 
----
-
-## Certifications & Related Skills
-
-### Network+ and CISCO CCNA (Route & Switch)
-
-Familiar with passive networking.
-
-<div class="cv-meta">
-  <span class="where">Cybertech Training Center</span>
-  <span class="when">Summer 2015</span>
-</div>
 
 
 
-## Work Experience & Extra-Curricular Activities
-
-### Teacher (Tutor) — High Schools and Private Institutions
-
-Mathematics, Physics, and Social Studies
-
-<div class="cv-meta">
-  <span class="where">Individually and in institutions including Mehr Mandegar and Nokhbegan Poorsina</span>
-  <span class="when">Fall 2016 – Summer 2020</span>
-</div>
-
-### High School and College Educational Consultancy
-
-Course consultancy, study planning, program selection for national annual university entrance exam
-
-<div class="cv-meta">
-  <span class="where">Khajeh Nasir educational institution</span>
-  <span class="when">Fall 2015</span>
-</div>
-
-### IT Technical Support — Hamayesh Afarinan Javid Company
-<div class="cv-meta">
-  <span class="where">9th Annual Clinical Oncology Congress, National Library and Archives of Iran</span>
-  <span class="when">Sep. 2014 - Sep. 2015</span>
-</div>
-
-### Internship
-
-Java SE Developer
-
-<div class="cv-meta">
-  <span class="where">Namaadiran Company, Tehran, Iran</span>
-  <span class="when">Summer 2014</span>
-</div>
 
 
 
