@@ -34,7 +34,7 @@ author_profile: true
 </div>
 
 <div class="item-block">
-  <p class="item-title"><strong>Evidential Uncertainty Sets in Deep Classifiers Using Conformal Prediction</strong> (Oral)</p>
+  <p class="item-title"><strong>Evidential Uncertainty Sets in Deep Classifiers Using Conformal Prediction</strong></p>
   <div class="cv-meta">
     <span class="where">COPA 2024 (Symposium on Conformal and Probabilistic Prediction with Applications), Milan, Italy</span>
     <span class="when">2024</span>
@@ -46,7 +46,7 @@ author_profile: true
 </div>
 
 <div class="item-block">
-  <p class="item-title"><strong>Quantifying Deep Learning Model Uncertainty in Conformal Prediction</strong> (Oral)</p>
+  <p class="item-title"><strong>Quantifying Deep Learning Model Uncertainty in Conformal Prediction</strong></p>
   <div class="cv-meta">
     <span class="where">AAAI Symposium: Human Partnership with Medical Artificial Intelligence (Human AI 2023), Singapore EXPO, Singapore</span>
     <span class="when">2023</span>
@@ -58,7 +58,7 @@ author_profile: true
 </div>
 
 <div class="item-block">
-  <p class="item-title"><strong>Evidence-based Subjective Classification Cost in Deep Neural Networks</strong> (Poster)</p>
+  <p class="item-title"><strong>Evidence-based Subjective Classification Cost in Deep Neural Networks</strong></p>
   <div class="cv-meta">
     <span class="where">Vector Institute Research Symposium, Toronto, ON, Canada</span>
     <span class="when">2023</span>
@@ -67,7 +67,7 @@ author_profile: true
 </div>
 
 <div class="item-block">
-  <p class="item-title"><strong>Subjective Uncertainty in Federated Learning</strong> (Poster)</p>
+  <p class="item-title"><strong>Subjective Uncertainty in Federated Learning</strong></p>
   <div class="cv-meta">
     <span class="where">Vector Institute Research Symposium, Toronto, ON, Canada</span>
     <span class="when">2022</span>
@@ -76,7 +76,7 @@ author_profile: true
 </div>
 
 <div class="item-block">
-  <p class="item-title"><strong>Ontology Alignment Using Inductive Logic Programming</strong> (Oral)</p>
+  <p class="item-title"><strong>Ontology Alignment Using Inductive Logic Programming</strong></p>
   <div class="cv-meta">
     <span class="where">International Conference on Web Research (ICWR), Tehran, Iran</span>
     <span class="when">2018</span>
@@ -86,7 +86,7 @@ author_profile: true
 
 
 
-## Participation & Activities
+## Participation and Activities
 
 <div class="item-block">
   <p class="item-title"><strong>Attended: the 13th Symposium on Conformal and Probabilistic Prediction with Applications (COPA)</strong></p>
