@@ -23,7 +23,7 @@ repository               : "hamedmx/hamedmx.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Hamed.png"
   name             : "Hamed Karimi"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate (Research Assistant) in Computer Engineering.<br>Working on Uncertainty Quantification in Trustworthy AI and Machine Learning." # Conformal Prediction & risk control, evidential/Bayesian deep learning, calibration, OOD Detection, Adversarial robustness, and LLM uncertainty.  
