@@ -37,7 +37,7 @@ Last Updated: January 2026
 
 ### Toronto Metropolitan University (TMU)
 <div class="cv-meta">
-  <span class="where">Ph.D. Candidate in Computer Engineering — Department of Electrical, Computer, and Biomedical Engineering; FEAS</span>
+  <span class="where">Ph.D. Candidate in Computer Engineering — Department of Electrical, Computer, and Biomedical Engineering<br>Faculty of Engineering and Architectural Science (FEAS)</span>
   <span class="when">Winter 2021 – Present</span>
 </div>
 - Research Area: Trustworthy AI and Machine Learning
