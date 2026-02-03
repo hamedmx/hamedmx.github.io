@@ -34,12 +34,11 @@ Optional links (add only if needed):
 
 ### EE8223 — Deep Learning (Graduate Course)
 
-* Course Instructor (Part-time Lecturer)
-  * Covering modern neural networks, training/validation, CNNs, RNNs, transformers, and applications in vision and NLP
+Covering modern neural networks, training/validation, CNNs, RNNs, transformers, and applications in vision and NLP
 
 <div class="cv-meta">
-  <span class="where">Toronto Metropolitan University — Toronto, ON, Canada</span>
-  <span class="when">Fall 2021 – Present</span>
+  <span class="where">Course Instructor (Part-time Lecturer)</span>
+  <span class="when">Fall 2024</span>
 </div>
 
 {% comment %}
@@ -49,12 +48,14 @@ Optional links:
 
 ### COE318 — Software Systems Design (Java Programming)
 
-- Course Instructor / Coordinator (Part-time Lecturer)
-- Teaching Assistant
+<div class="cv-meta">
+  <span class="where">Course Instructor / Coordinator (Part-time Lecturer)</span>
+  <span class="when">Fall 2023</span>
+</div>
 
 <div class="cv-meta">
-  <span class="where">Toronto Metropolitan University — Toronto, ON, Canada</span>
-  <span class="when">Fall 2021 – Present</span>
+  <span class="where">Teaching Assistant</span>
+  <span class="when">Fall 2021 – Fall 2025</span>
 </div>
 
 {% comment %}
@@ -64,114 +65,93 @@ Optional links:
 
 ### COE428 — Data Structures and Algorithms
 
-Teaching Assistant
-
 <div class="cv-meta">
-  <span class="where">Toronto Metropolitan University — Toronto, ON, Canada</span>
+  <span class="where">Teaching Assistant</span>
   <span class="when">Fall 2021 – Present</span>
 </div>
 
 
 ### COE891 — Software Testing and Quality Assurance
 
-- Teaching Assistant
-- Designing Lab Materials: Course Project and Lab Assignments/Tasks
+Designing Lab Materials: Course Project and Lab Assignments/Tasks in Addition to Teaching Assistantship
 
 <div class="cv-meta">
-  <span class="where">Toronto Metropolitan University — Toronto, ON, Canada</span>
+  <span class="where">Teaching Assistant</span>
   <span class="when">Winter 2022 – Present</span>
 </div>
 
 
 ### MTH425 — Differential Equations and Vector Calculus
 
-Teaching Assistant
-
 <div class="cv-meta">
-  <span class="where">Toronto Metropolitan University — Toronto, ON, Canada</span>
+  <span class="where">Teaching Assistant</span>
   <span class="when">Fall 2023</span>
 </div>
 
 
-## Seneca Polytechnic College
+## Seneca Polytechnic College, Toronto, ON, Canada
 
-### Data Structures and Algorithms (Python Programming)
-
-Part-time Professor 
+### Data Structures and Algorithms (via Python Programming)
 
 <div class="cv-meta">
-  <span class="where">Seneca Polytechnic — Toronto, ON, Canada</span>
-  <span class="when">Winter 2025 – Present</span>
+  <span class="where">Part-time Professor</span>
+  <span class="when">Fall 2024 – Present</span>
 </div>
 
 
-### Object Oriented Programming (CPP Programming)
-
-Part-time Professor 
+### Object Oriented Programming (via CPP Programming)
 
 <div class="cv-meta">
-  <span class="where">Seneca Polytechnic — Toronto, ON, Canada</span>
-  <span class="when">Summer 2024 – Winter 2025</span>
+  <span class="where">Part-time Professor</span>
+  <span class="when">Summer 2024 – Fall 2024</span>
 </div>
 
 
-### Introduction to Programming (C Programming)
-
-Part-time Professor 
+### Introduction to Programming (via C Programming)
 
 <div class="cv-meta">
-  <span class="where">Seneca Polytechnic — Toronto, ON, Canada</span>
-  <span class="when">Fall 2023 – Fall 2024</span>
+  <span class="where">Part-time Professor</span>
+  <span class="when">Fall 2023 – Summer 2024</span>
 </div>
 
 
-## University of Tehran (UT)
+## University of Tehran (UT), Tehran, Iran
 
 ### Semantic Web
 
-Teaching Assistant
-
 <div class="cv-meta">
-  <span class="where">University of Tehran — Tehran, Iran</span>
+  <span class="where">Teaching Assistant</span>
   <span class="when">Fall 2017 – 2019</span>
 </div>
 
 ### Introduction to Programming
 
-Teaching Assistant
-
 <div class="cv-meta">
-  <span class="where">University of Tehran — Tehran, Iran</span>
+  <span class="where">Teaching Assistant</span>
   <span class="when">Fall 2017 – 2019</span>
 </div>
 
 
-## Shahid Beheshti University (SBU)
+## Shahid Beheshti University (SBU), Tehran, Iran
 
 ### Database Lab
 
-Teaching Assistant
-
 <div class="cv-meta">
-  <span class="where">Shahid Beheshti University — Tehran, Iran</span>
+  <span class="where">Teaching Assistant</span>
   <span class="when">Fall 2012 – Summer 2015</span>
 </div>
 
 ### Computer Architecture Lab
 
-Teaching Assistant
-
 <div class="cv-meta">
-  <span class="where">Shahid Beheshti University — Tehran, Iran</span>
+  <span class="where">Teaching Assistant</span>
   <span class="when">Fall 2012 – Summer 2015</span>
 </div>
 
 ### Differential Equations
 
-Teaching Assistant
-
 <div class="cv-meta">
-  <span class="where">Shahid Beheshti University — Tehran, Iran</span>
+  <span class="where">Teaching Assistant</span>
   <span class="when">Fall 2012 – Summer 2015</span>
 </div>
 
