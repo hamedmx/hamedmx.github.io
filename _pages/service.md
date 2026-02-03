@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Service and Awards"
+title: "Services and Awards"
 permalink: /service/
 author_profile: true
 ---
