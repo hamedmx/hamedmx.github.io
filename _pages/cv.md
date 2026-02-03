@@ -35,7 +35,7 @@ Last Updated: January 2026
 
 ## Education
 
-### Toronto Metropolitan University (TMU)
+### Toronto Metropolitan University (TMU), Toronto, Ontario, Canada
 
 <div class="cv-meta">
   <span class="where">Ph.D. Candidate in Computer Engineering<br>Department of Electrical, Computer, and Biomedical Engineering<br>Faculty of Engineering and Architectural Science (FEAS)</span>
@@ -45,7 +45,7 @@ Last Updated: January 2026
 - **Research Area:** Trustworthy AI and Machine Learning
 - **Supervisor:** Dr. Reza Samavi (Vector Institute Faculty Affiliate)
 
-### University of Tehran (UT)
+### University of Tehran (UT), Tehran, Iran
 
 <div class="cv-meta">
   <span class="where">M.Sc. in Computer Engineering<br>Department of Algorithms and Computation<br>School of Engineering Science, College of Engineering</span>
@@ -56,7 +56,7 @@ Last Updated: January 2026
 - **Supervisors:** Dr. Ali Kamandi and Dr. Abdorreza Torabi  
 <!-- - GPA: - out of 4. -->
 
-### Shahid Beheshti University (SBU)
+### Shahid Beheshti University (SBU), Tehran, Iran
 
 <div class="cv-meta">
   <span class="where">B.Sc. in Computer Engineering<br>Department of Computer Science and Engineering</span>
