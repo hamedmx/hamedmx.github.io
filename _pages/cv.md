@@ -37,19 +37,19 @@ Last Updated: January 2026
 
 ### Toronto Metropolitan University (TMU)
 <div class="cv-meta">
-  <span class="where">Ph.D. in Computer Engineering — Department of Electrical, Computer, and Biomedical Engineering; FEAS</span>
+  <span class="where">Ph.D. Candidate in Computer Engineering — Department of Electrical, Computer, and Biomedical Engineering; FEAS</span>
   <span class="when">Winter 2021 – Present</span>
 </div>
-- Research Area: Trustworthy AI and Machine Learning.  
-- Supervisor: Dr. Reza Samavi (Vector Institute Faculty Affiliate).
+- Research Area: Trustworthy AI and Machine Learning
+- Supervisor: Dr. Reza Samavi (Vector Institute Faculty Affiliate)
 
 ### University of Tehran (UT)
 <div class="cv-meta">
   <span class="where">M.Sc. in Computer Engineering — Department of Algorithms and Computation; School of Engineering Science, College of Engineering</span>
   <span class="when">Fall 2016 – Summer 2019</span>
 </div>
-- Thesis Topic: Ontology Mapping Using Inductive Logic Programming and Word Embedding Approaches.  
-- Supervisors: Dr. Ali Kamandi and Dr. Abdorreza Torabi.  
+- Thesis Topic: Ontology Mapping Using Inductive Logic Programming and Word Embedding Approaches
+- Supervisors: Dr. Ali Kamandi and Dr. Abdorreza Torabi  
 <!-- - GPA: - out of 4. -->
 
 ### Shahid Beheshti University (SBU)
@@ -57,8 +57,8 @@ Last Updated: January 2026
   <span class="where">B.Sc. in Computer Engineering — Department of Computer Science and Engineering; Specialty: Software Engineering</span>
   <span class="when">Fall 2011 – Spring 2016</span>
 </div>
-- Final Project Topic: A Reinforcement Learning Approach in Multi-Agent Systems Based on Cooperation.  
-- Supervisor: Dr. Monireh Abdoos.
+- Final Project Topic: A Reinforcement Learning Approach in Multi-Agent Systems Based on Cooperation  
+- Supervisor: Dr. Monireh Abdoos
 
 
 ## Publications
