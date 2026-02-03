@@ -13,16 +13,18 @@ author_profile: true
 {% endfor %}
 -->
 
-## Toronto Metropolitan University (TMU)
+## Toronto Metropolitan University (TMU), Toronto, ON, Canada
 
 ### ITM207 — Computer-enabled Problem Solving
-
-- Course Instructor (Part-time Lecturer)
-- Teaching Assistant
   
 <div class="cv-meta">
-  <span class="where">Toronto Metropolitan University — Toronto, ON, Canada</span>
-  <span class="when">Fall 2021 – Present</span>
+  <span class="where">Course Instructor (Part-time Lecturer)</span>
+  <span class="when">Winter 2025 – Present</span>
+</div>
+
+<div class="cv-meta">
+  <span class="where">Teaching Assistant</span>
+  <span class="when">Winter 2024</span>
 </div>
 
 {% comment %}
