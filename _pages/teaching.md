@@ -17,7 +17,7 @@ author_profile: true
 
 ### ITM207 — Computer-enabled Problem Solving
 
-- Lecturer / Course Instructor (Part-time Lecturer)
+- Course Instructor (Part-time Lecturer)
 - Teaching Assistant
   
 <div class="cv-meta">
@@ -33,7 +33,7 @@ Optional links (add only if needed):
 ### EE8223 — Deep Learning (Graduate Course)
 
 * Course Instructor (Part-time Lecturer)
-  * Covering modern neural networks, training/validation, CNNs, RNNs, transformers, and applications in vision and NLP.
+  * Covering modern neural networks, training/validation, CNNs, RNNs, transformers, and applications in vision and NLP
 
 <div class="cv-meta">
   <span class="where">Toronto Metropolitan University — Toronto, ON, Canada</span>
@@ -73,7 +73,7 @@ Teaching Assistant
 ### COE891 — Software Testing and Quality Assurance
 
 - Teaching Assistant
-- Designing lab materials and assignments/tasks in addition to teaching assistantship duties
+- Designing Lab Materials: Course Project and Lab Assignments/Tasks
 
 <div class="cv-meta">
   <span class="where">Toronto Metropolitan University — Toronto, ON, Canada</span>
