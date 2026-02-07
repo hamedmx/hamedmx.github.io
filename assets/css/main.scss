@@ -89,3 +89,12 @@
   hyphens: auto;
 }
 
+/* cv-meta color: light vs dark theme (your site uses <html data-theme="dark">) */
+.cv-meta {
+  color: #666;          /* light mode */
+}
+
+html[data-theme="dark"] .cv-meta {
+  color: #cfcfcf;       /* dark mode */
+}
+
