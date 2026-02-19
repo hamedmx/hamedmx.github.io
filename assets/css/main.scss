@@ -118,4 +118,52 @@ html[data-theme="dark"] .cv-meta {
 }
 
 
+/* ===== Active nav highlight (adaptive light/dark) ===== */
+
+/* Base look for nav links (optional, keeps it clean) */
+.navbar a,
+.greedy-nav a,
+.page__header-nav a,
+.site-nav a {
+  border-radius: 10px;
+  padding: 0.35rem 0.6rem;
+  transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+/* Active states: try common selectors used by popular Jekyll themes */
+.navbar a.active,
+.greedy-nav a.active,
+.page__header-nav a.active,
+.site-nav a.active,
+.navbar li.active > a,
+.greedy-nav li.active > a,
+.page__header-nav li.active > a,
+.site-nav li.active > a,
+.navbar a[aria-current="page"],
+.greedy-nav a[aria-current="page"],
+.page__header-nav a[aria-current="page"],
+.site-nav a[aria-current="page"] {
+  background: rgba(0, 120, 255, 0.12);
+  border: 1px solid rgba(0, 120, 255, 0.35);
+  color: inherit;
+  font-weight: 600;
+}
+
+/* Dark theme adjustment (your site uses html[data-theme="dark"]) */
+html[data-theme="dark"] .navbar a.active,
+html[data-theme="dark"] .greedy-nav a.active,
+html[data-theme="dark"] .page__header-nav a.active,
+html[data-theme="dark"] .site-nav a.active,
+html[data-theme="dark"] .navbar li.active > a,
+html[data-theme="dark"] .greedy-nav li.active > a,
+html[data-theme="dark"] .page__header-nav li.active > a,
+html[data-theme="dark"] .site-nav li.active > a,
+html[data-theme="dark"] .navbar a[aria-current="page"],
+html[data-theme="dark"] .greedy-nav a[aria-current="page"],
+html[data-theme="dark"] .page__header-nav a[aria-current="page"],
+html[data-theme="dark"] .site-nav a[aria-current="page"] {
+  background: rgba(120, 180, 255, 0.18);
+  border: 1px solid rgba(120, 180, 255, 0.45);
+}
+
 
