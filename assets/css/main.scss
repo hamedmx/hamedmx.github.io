@@ -98,3 +98,24 @@ html[data-theme="dark"] .cv-meta {
   color: #cfcfcf;       /* dark mode */
 }
 
+
+/* Nicely aligned/justified bullet lists inside page content */
+.page__content ul,
+.page__content ol {
+  padding-left: 1.4rem;   /* consistent indent */
+}
+
+.page__content li {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+  margin: 0.2rem 0;
+}
+
+/* Optional: slightly better wrapped-line alignment for long bullets */
+.page__content li p {
+  margin: 0.15rem 0;
+}
+
+
+
