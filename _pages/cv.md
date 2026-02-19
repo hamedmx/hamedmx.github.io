@@ -146,7 +146,7 @@ Under review; Number of Pages: —; Submission Date: February —, 2026; Manuscr
 
 
 ## Conferences and Presentations
-Full details are listed in the Talks tab.
+Full details are listed in the [Talks](/talks/) tab.
 
 
 
