@@ -43,7 +43,7 @@ Developing an evidential OOD detection framework for deep classifiers by introdu
 Designed an adaptive <i>Semantic Entropy</i> framework that estimates LLM uncertainty using dispersion of sentence embeddings over clustered generations, then <i>inflates/adjusts uncertainty</i> to improve conservativeness and mitigate hallucinations. The approach applies <i>conformal calibration</i> to obtain distribution-free, guaranteed <i>prompt-level accept/abstain</i> decisions and <i>response-level prediction sets</i>.<br><i>Ongoing work includes guaranteed risk control for generative tasks.</i>
 </p>
   
-### HEAR: Hybrid Ensemble Adversarial Robustness in Neural Networks
+### CEAR: Certified Ensemble Adversarial Robustness in Neural Networks
 <div class="cv-meta">
   <span class="where"><strong>Toronto Metropolitan University (TAILab), Toronto, ON, Canada</strong></span>
   <span class="when"><em>Summer 2025 – Present</em></span>
