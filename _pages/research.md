@@ -21,7 +21,7 @@ My research focuses on <i>trustworthy AI and machine learning</i> with an emphas
 - Adaptive conformal semantic entropy for LLM uncertainty calibration
 - Adaptive conformal risk control in LLMs
 
-## Research Experience
+## Selected Research Experience
 
 ### Evidential Out-of-Distribution Detection Using Misclassification Cost and Information-Theoretic Regularization
 <div class="cv-meta">
