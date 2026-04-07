@@ -13,7 +13,7 @@ Passionate about bridging rigorous, uncertainty-aware methodologies with real-wo
 </div>
 
 ### Research Highlights
-- Model uncertainty quantification derived from CP prediction sets
+- Model uncertainty quantification derived from conformal prediction sets
 - OOD detection using information-theoretic and evidential class properties
 - Spatially-Adaptive Conformal Prediction (SACP) for medical image segmentation
 - Evidential Conformal Prediction (ECP) for efficient, adaptive prediction sets in deep classification
