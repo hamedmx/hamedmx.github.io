@@ -4,13 +4,13 @@ title: "LLMs Uncertainty Quantification via Adaptive Conformal Semantic Entropy"
 collection: publications
 category: conferences
 permalink: /publication/2026-acse-ijcai/
-excerpt: "LLMs Uncertainty Quantification via Adaptive Conformal Semantic Entropy."
+excerpt: "Uncertainty Quantification in LLMs Using Adaptive Conformal Semantic Entropy (ACSE)."
 date: 2026-05-01
 venue: "The 35th International Joint Conference on Artificial Intelligence (IJCAI 2026)"
 paperurl: "https://arxiv.org/abs/2605.04295"
 status: "Accepted for publication in the Proceedings of International Joint Conference on Artificial Intelligence"
 arxiv: "https://arxiv.org/abs/2605.04295"
-citation: 'Karimi, H., Meyappan, V., & Samavi, R. (2026). “LLMs Uncertainty Quantification via Adaptive Conformal Semantic Entropy.” In the 35th International Joint Conference on Artificial Intelligence (IJCAI 2026). Accepted to be published in Proceedings of IJCAI 2026.'
+citation: 'Karimi, H., Meyappan, V., & Samavi, R. (2026). “LLMs Uncertainty Quantification via Adaptive Conformal Semantic Entropy.” Accepted in the 35th International Joint Conference on Artificial Intelligence (IJCAI 2026). Accepted to be published in Proceedings of IJCAI 2026.'
 ---
 
 <div class="justify-text">
