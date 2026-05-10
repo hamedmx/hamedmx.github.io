@@ -5,7 +5,7 @@ collection: publications
 category: conferences
 permalink: /publication/2026-acse-ijcai
 excerpt: "LLMs Uncertainty Quantification via Adaptive Conformal Semantic Entropy."
-date: 2026-01-19
+date: 2026-05-01
 venue: "The 35th International Joint Conference on Artificial Intelligence (IJCAI 2026)"
 paperurl: "https://arxiv.org/abs/2605.04295"
 status: "Accepted for publication in the Proceedings of International Joint Conference on Artificial Intelligence"
