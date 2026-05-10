@@ -5,9 +5,11 @@ permalink: /cv/
 author_profile: true
 ---
 
-### Hamed Karimi — Curriculum Vitae
+### Curriculum Vitae
 
+<!--
 Last Updated: January 2026
+-->
 
 <div class="cv-meta">
   <span class="where"></span>
