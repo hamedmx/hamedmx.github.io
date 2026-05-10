@@ -17,18 +17,19 @@ My research focuses on <i>trustworthy AI and machine learning</i> with an emphas
 
 
 ### Selected Ongoing Projects
-- Spatially-adaptive conformal prediction for medical image segmentation
-- Evidential OOD detection using misclassification cost through information-theoretic regularization
-- Adaptive conformal risk control in LLMs
+- Evidential OOD detection using misclassification cost through regularization
+- Adaptive risk control in LLMs
+- Evidence-based model uncertainty quantification from input data quality 
 
 ## Selected Research Experience
 
+<!--
 ### Evidential Out-of-Distribution Detection Using Misclassification Cost and Information-Theoretic Regularization
 <div class="cv-meta">
   <span class="where"><strong>Toronto Metropolitan University (TAILab), Toronto, ON, Canada</strong></span>
   <span class="when"><em>Winter 2025 – Present</em></span>
 </div>
-<!--
+
 <p class="justify-text">
 Developing an evidential OOD detection framework for deep classifiers by introducing a <i>class-wise misclassification cost</i> and evidential regularizer that reshape evidence allocation during training. The method uses a <i>two-factor OOD score</i> combining evidence scarcity and class conflict at inference, with theoretical analysis linking regularizer gradients to evidence dynamics and improved ID–OOD separability.
 </p>
@@ -47,7 +48,7 @@ Designed an adaptive <i>Semantic Entropy</i> framework that estimates LLM uncert
 ### CEAR: Certified Ensemble Adversarial Robustness in Neural Networks
 <div class="cv-meta">
   <span class="where"><strong>Toronto Metropolitan University (TAILab), Toronto, ON, Canada</strong></span>
-  <span class="when"><em>Summer 2025 – Present</em></span>
+  <span class="when"><em>Fall 2025 – Winter 2026</em></span>
 </div>
 
 <p class="justify-text">
