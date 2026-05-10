@@ -3,7 +3,7 @@
 title: "LLMs Uncertainty Quantification via Adaptive Conformal Semantic Entropy"
 collection: publications
 category: conferences
-permalink: /publication/2026-acse-ijcai/
+permalink: /publication/2026-acse-ijcai
 excerpt: "Uncertainty Quantification in LLMs Using Adaptive Conformal Semantic Entropy (ACSE)."
 date: 2026-05-01
 venue: "The 35th International Joint Conference on Artificial Intelligence (IJCAI 2026)"
