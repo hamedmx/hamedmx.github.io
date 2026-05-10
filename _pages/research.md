@@ -11,14 +11,14 @@ My research focuses on <i>trustworthy AI and machine learning</i> with an emphas
 
 ### Research Themes
 - Conformal prediction and risk control
+- Uncertainty quantification and decision rules in large language models (LLMs)
 - Evidential/Bayesian deep learning for epistemic uncertainty
 - OOD detection and robustness
-- Uncertainty in large language models (LLMs)
+
 
 ### Selected Ongoing Projects
 - Spatially-adaptive conformal prediction for medical image segmentation
 - Evidential OOD detection using misclassification cost through information-theoretic regularization
-- Adaptive conformal semantic entropy for LLM uncertainty calibration
 - Adaptive conformal risk control in LLMs
 
 ## Selected Research Experience
@@ -28,10 +28,11 @@ My research focuses on <i>trustworthy AI and machine learning</i> with an emphas
   <span class="where"><strong>Toronto Metropolitan University (TAILab), Toronto, ON, Canada</strong></span>
   <span class="when"><em>Winter 2025 – Present</em></span>
 </div>
-
+<!--
 <p class="justify-text">
 Developing an evidential OOD detection framework for deep classifiers by introducing a <i>class-wise misclassification cost</i> and evidential regularizer that reshape evidence allocation during training. The method uses a <i>two-factor OOD score</i> combining evidence scarcity and class conflict at inference, with theoretical analysis linking regularizer gradients to evidence dynamics and improved ID–OOD separability.
 </p>
+-->
 
 ### Uncertainty Quantification in Language Models Using Adaptive Conformal Semantic Entropy
 <div class="cv-meta">
@@ -40,7 +41,7 @@ Developing an evidential OOD detection framework for deep classifiers by introdu
 </div>
 
 <p class="justify-text">
-Designed an adaptive <i>Semantic Entropy</i> framework that estimates LLM uncertainty using dispersion of sentence embeddings over clustered generations, then <i>inflates/adjusts uncertainty</i> to improve conservativeness and mitigate hallucinations. The approach applies <i>conformal calibration</i> to obtain distribution-free, guaranteed <i>prompt-level accept/abstain</i> decisions and <i>response-level prediction sets</i>.<br><i>Ongoing work includes guaranteed risk control for generative tasks.</i>
+Designed an adaptive <i>Semantic Entropy</i> framework that estimates LLM uncertainty using dispersion of sentence embeddings over clustered generations, then <i>inflates/adjusts uncertainty</i> to improve conservativeness and mitigate hallucinations. The approach applies <i>conformal calibration</i> to obtain distribution-free, guaranteed <i>prompt-level accept/abstain</i> decisions and <i>response-level prediction sets</i>.
 </p>
   
 ### CEAR: Certified Ensemble Adversarial Robustness in Neural Networks
