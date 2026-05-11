@@ -3,9 +3,9 @@ title: "LLMs Uncertainty Quantification via Adaptive Conformal Semantic Entropy"
 collection: publications
 category: conferences
 permalink: /publication/2026-acse-ijcai
-excerpt: "Uncertainty Quantification in LLMs Using Adaptive Conformal Semantic Entropy (ACSE)."
+excerpt: "Uncertainty Quantification and adaptive accept/abstain decision rule in LLMs Using Conformal Semantic Entropy (ACSE)."
 date: 2026-05-01
-venue: "The 35th International Joint Conference on Artificial Intelligence (IJCAI 2026)"
+venue: "Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)"
 paperurl: "https://arxiv.org/abs/2605.04295"
 status: "Accepted for publication in the Proceedings of International Joint Conference on Artificial Intelligence"
 arxiv: "https://arxiv.org/abs/2605.04295"
