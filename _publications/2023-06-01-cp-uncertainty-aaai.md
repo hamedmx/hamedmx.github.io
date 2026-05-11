@@ -3,14 +3,14 @@ title: "Quantifying Deep Learning Model Uncertainty in Conformal Prediction"
 collection: publications
 category: conferences
 permalink: /publication/2023-cp-uncertainty-aaai-ss
-excerpt: "Probabilistic quantification of uncertainty derived from conformal prediction sets."
+excerpt: "Certified quantification of uncertainty derived from conformal prediction sets."
 date: 2023-06-01
 venue: "AAAI Symposium Series (Human AI)"
 paperurl: "https://ojs.aaai.org/index.php/AAAI-SS/article/view/27492"
 pdf: "https://ojs.aaai.org/index.php/AAAI-SS/article/download/27492/27265/31543"
 doi: "https://doi.org/10.1609/aaaiss.v1i1.27492"
 arxiv: "https://arxiv.org/abs/2306.00876"
-citation: 'Karimi, H., & Samavi, R. (2023). “Quantifying Deep Learning Model Uncertainty in Conformal Prediction.” Proceedings of the AAAI Symposium Series, 1(1), 142–148.'
+citation: 'Karimi, H., & Samavi, R. (2023). “Quantifying Deep Learning Model Uncertainty in Conformal Prediction.” The Proceedings of the AAAI Symposium Series, 1(1), pp. 142–148.'
 ---
 
 <div class="justify-text">
