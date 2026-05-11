@@ -31,7 +31,7 @@ Last Updated: January 2026
 ## Highlights
 - I am currently a meachine learning researcher with a Ph.D. in Computer Engineering from Toronto Metropolitan University (TMU), Toronto, ON, Canada. I received my B.Sc. degree from Shahid Beheshti University (2016) and M.Sc. degree from the University of Tehran (2019) in Computer Engineering.
 - My current research focuses on confidence and uncertainty quantification in deep neural networks and LLMs, employing techniques such as conformal prediction and risk control, evidential and Bayesian approaches, and information-theoretic methods to enhance reliability in AI systems.
-- I have published peer-reviewed research articles in refereed journals and conferences including Expert Systems with Applications (Q1, IF: 8.5), AAAI Human AI Symposium, Conformal and Probabilistic Prediction with Applications (COPA), and Medical Imaging with Deep Learning (MIDL).
+- I have published peer-reviewed research articles in refereed journals and conferences including International Joint Conference on Artificial Intelligence (IJCAI), AAAI Human AI Symposium, Conformal and Probabilistic Prediction with Applications (COPA), Medical Imaging with Deep Learning (MIDL), and Journal of Expert Systems with Applications (Q1, IF: 8.5).
 - Other research interests include uncertainty in large language models (LLMs), adversarial robustness, model calibration, federated learning, and interpretability in machine learning.
 
 
@@ -41,7 +41,7 @@ Last Updated: January 2026
 
 <div class="cv-meta">
   <span class="where">Ph.D. in Computer Engineering<br>Department of Electrical, Computer, and Biomedical Engineering<br>Faculty of Engineering and Architectural Science (FEAS)</span>
-  <span class="when">Winter 2021 – Present</span>
+  <span class="when">Winter 2021 – Winter 2026</span>
 </div>
 
 - **Research Area:** Trustworthy AI and Machine Learning
