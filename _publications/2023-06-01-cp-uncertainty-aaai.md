@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2023-cp-uncertainty-aaai-ss
 excerpt: "Certified quantification of uncertainty derived from conformal prediction sets."
 date: 2023-06-01
-venue: "AAAI Symposium Series (Human AI)"
+venue: "Proceedings of the AAAI Symposium Series (Human AI)"
 paperurl: "https://ojs.aaai.org/index.php/AAAI-SS/article/view/27492"
 pdf: "https://ojs.aaai.org/index.php/AAAI-SS/article/download/27492/27265/31543"
 doi: "https://doi.org/10.1609/aaaiss.v1i1.27492"
