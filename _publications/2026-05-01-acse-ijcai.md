@@ -9,7 +9,7 @@ venue: "The 35th International Joint Conference on Artificial Intelligence (IJCA
 paperurl: "https://arxiv.org/abs/2605.04295"
 status: "Accepted for publication in the Proceedings of International Joint Conference on Artificial Intelligence"
 arxiv: "https://arxiv.org/abs/2605.04295"
-citation: 'Karimi, H., Meyappan, V., & Samavi, R. (2026). “LLMs Uncertainty Quantification via Adaptive Conformal Semantic Entropy.” Accepted in the 35th International Joint Conference on Artificial Intelligence (IJCAI 2026). Accepted to be published in Proceedings of IJCAI 2026.'
+citation: 'Karimi, H., Meyappan, V., & Samavi, R. (2026). “LLMs Uncertainty Quantification via Adaptive Conformal Semantic Entropy.” Accepted to be published in the Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI 2026).'
 ---
 
 <div class="justify-text">
