@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2018-ilp-ontology-icwr
 excerpt: "Mapping ontologies using inverse resolution in inductive logic programming."
 date: 2018-04-01
-venue: "International Conference on Web Research (ICWR), IEEE"
+venue: "Proceedings of the International Conference on Web Research (ICWR), IEEE Xplore"
 doi: "https://doi.org/10.1109/ICWR.2018.8387247"
 paperurl: "https://doi.org/10.1109/ICWR.2018.8387247"
 citation: 'Karimi, H., & Kamandi, A. (2018). “Ontology Alignment Using Inductive Logic Programming.” In 4th International Conference on Web Research (ICWR), 118–127. IEEE.'
