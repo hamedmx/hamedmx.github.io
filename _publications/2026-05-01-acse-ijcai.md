@@ -7,7 +7,7 @@ excerpt: "Uncertainty Quantification and adaptive accept/abstain decision rule i
 date: 2026-05-01
 venue: "Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)"
 paperurl: "https://arxiv.org/abs/2605.04295"
-status: "Accepted for publication in the Proceedings of International Joint Conference on Artificial Intelligence"
+status: "Accepted to appear in the Proceedings of International Joint Conference on Artificial Intelligence"
 arxiv: "https://arxiv.org/abs/2605.04295"
 citation: 'Karimi, H., Meyappan, V., & Samavi, R. (2026). “LLMs Uncertainty Quantification via Adaptive Conformal Semantic Entropy.” Accepted to be published in the Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI 2026).'
 ---
