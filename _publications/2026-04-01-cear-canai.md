@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2026-cear-canai
 excerpt: "An ensemble-based robust method that utilizes a hybrid of empirical and certified defense mechanisms."
 date: 2026-04-01
-venue: "The 39th Canadian Conference on Artificial Intelligence (Canadian AI 2026)"
+venue: "Proceedings of the Canadian Conference on Artificial Intelligence (Canadian AI)"
 paperurl: ""
 status: "Accepted for publication in the Proceedings of International Joint Conference on Artificial Intelligence"
 citation: 'Sadig, D., Maleki, M., Karimi, H., & Samavi, R. (2026). “CEAR: Certified Ensemble Adversarial Robustness in DNNs.” Accepted to be published in the 39th Canadian Conference on Artificial Intelligence (Canadian AI 2026).'
