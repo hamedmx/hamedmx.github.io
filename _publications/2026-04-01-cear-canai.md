@@ -8,7 +8,7 @@ date: 2026-04-01
 venue: "Proceedings of the Canadian Conference on Artificial Intelligence (Canadian AI)"
 paperurl: ""
 status: "Accepted to appear in the Proceedings of Canadian conference on Artificial Intelligence"
-citation: 'Sadig, D., Maleki, M., Karimi, H., & Samavi, R. (2026). “CEAR: Certified Ensemble Adversarial Robustness in DNNs.” Accepted to be published in the 39th Canadian Conference on Artificial Intelligence (Canadian AI 2026).'
+citation: 'Sadig, D., Maleki, M., Karimi, H., & Samavi, R. (2026). “CEAR: Certified Ensemble Adversarial Robustness in DNNs.” Accepted to be published in the Proceedings of the 39th Canadian Conference on Artificial Intelligence (Canadian AI 2026).'
 ---
 
 <div class="justify-text">
