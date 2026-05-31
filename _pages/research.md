@@ -35,7 +35,7 @@ Developing an evidential OOD detection framework for deep classifiers by introdu
 </p>
 -->
 
-### Uncertainty Quantification in Language Models Using Adaptive Conformal Semantic Entropy
+### Uncertainty Quantification and Hallucination Detection in LLMs Using Adaptive Conformal Semantic Entropy
 <div class="cv-meta">
   <span class="where"><strong>Toronto Metropolitan University (TAILab), Toronto, ON, Canada</strong></span>
   <span class="when"><em>Fall 2025 – Winter 2026</em></span>
