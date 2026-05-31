@@ -68,7 +68,9 @@ author_profile: true
 <div class="cv-meta">
   <span class="where">Conference on Neural Information Processing Systems (NeurIPS)</span>
   <span class="when">2026</span>
-  <br>
+</div>
+
+<div class="cv-meta">
   <span class="where">Asian Conference on Machine Learning (ACML)</span>
   <span class="when">2023 - 2024</span>
 </div>
