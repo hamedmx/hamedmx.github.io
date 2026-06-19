@@ -15,11 +15,28 @@ author_profile: true
 
 ## Toronto Metropolitan University (TMU), Toronto, ON, Canada
 
+### COE318 — Software Systems Design (Java Programming)
+
+<div class="cv-meta">
+  <span class="where">Course Instructor / Coordinator (Part-time Lecturer)</span>
+  <span class="when">Fall 2023 & 2026</span>
+</div>
+
+<div class="cv-meta">
+  <span class="where">Teaching Assistant</span>
+  <span class="when">Fall 2021 – Fall 2025</span>
+</div>
+
+{% comment %}
+Optional links:
+<p class="item-links"><a href="URL">Course page</a> · <a href="URL">Syllabus</a></p>
+{% endcomment %}
+
 ### ITM207 — Computer-enabled Problem Solving
   
 <div class="cv-meta">
   <span class="where">Course Instructor (Part-time Lecturer)</span>
-  <span class="when">Winter 2025 – Present</span>
+  <span class="when">Winter 2025 – 2026</span>
 </div>
 
 <div class="cv-meta">
@@ -39,23 +56,6 @@ Covering modern neural networks, training/validation, CNNs, RNNs, transformers, 
 <div class="cv-meta">
   <span class="where">Course Instructor (Part-time Lecturer)</span>
   <span class="when">Fall 2024</span>
-</div>
-
-{% comment %}
-Optional links:
-<p class="item-links"><a href="URL">Course page</a> · <a href="URL">Syllabus</a></p>
-{% endcomment %}
-
-### COE318 — Software Systems Design (Java Programming)
-
-<div class="cv-meta">
-  <span class="where">Course Instructor / Coordinator (Part-time Lecturer)</span>
-  <span class="when">Fall 2023</span>
-</div>
-
-<div class="cv-meta">
-  <span class="where">Teaching Assistant</span>
-  <span class="when">Fall 2021 – Fall 2025</span>
 </div>
 
 {% comment %}
