@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-<p>Below is a list of my oral and poster presentations, as well as selected conference participation and research activities.</p>
+<p>Below is a list of selected oral/poster presentations, conference participation, and research activities.</p>
 
 <!--
 {% if site.talkmap_link == true %}
