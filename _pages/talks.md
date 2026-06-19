@@ -31,7 +31,7 @@ Optional links (add only if needed):
 {% endcomment %}
 
   <div class="cv-meta">
-    <span class="where">Ted Rogers School of Management, Toronto, ON, Canada</span>
+    <span class="where">Ted Rogers School of Management (TRSM), Toronto, ON, Canada</span>
     <span class="when">2026</span>
   </div>
   
