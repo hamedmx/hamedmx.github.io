@@ -64,7 +64,6 @@ author_profile: true
 ## Professional Services
 
 ### Conference Reviewer
-
 <div class="cv-meta">
   <span class="where">Conference on Neural Information Processing Systems (NeurIPS)</span>
   <span class="when">2026</span>
@@ -76,13 +75,15 @@ author_profile: true
 </div>
 
 ### Journal Reviewer
-
 - Pattern Recognition (Elsevier)
 - IEEE Access
+
+<!--
 <div class="cv-meta">
   <span class="where"></span>
   <span class="when"></span>
 </div>
+-->
 
 ### Symposium Reviewer
 <div class="cv-meta">
