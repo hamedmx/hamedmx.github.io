@@ -21,9 +21,23 @@ author_profile: true
 
 ## Oral and Poster Presentations
 
+### Adaptive Conformal Semantic Uncertainty in LLMs for Responsible AI
+
+<p class="item-desc">Oral and Poster Presentations at Trust to Impact: Trustworthy and Responsible Al for Citizenship, Migration, and Social Good (TIAI) Workshop</p>
+
+{% comment %}
+Optional links (add only if needed):
+<p class="item-links"><a href="URL">Slides</a> · <a href="URL">Poster</a></p>
+{% endcomment %}
+
+  <div class="cv-meta">
+    <span class="where">Ted Rogers School of Management, Toronto, ON, Canada</span>
+    <span class="when">2026</span>
+  </div>
+  
 ### Localized Uncertainty Quantification in Medical Image Segmentation via Adaptive Conformal Prediction
 
-<p class="item-desc">Poster presentation at the Vector Institute Research Symposium.</p>
+<p class="item-desc">Poster presentation at the Vector Institute Research Symposium</p>
 {% comment %}
 Optional links (add only if needed):
 <p class="item-links"><a href="URL">Slides</a> · <a href="URL">Poster</a></p>
@@ -37,7 +51,7 @@ Optional links (add only if needed):
   
 ### Evidential Uncertainty Sets in Deep Classifiers Using Conformal Prediction
 
-  <p class="item-desc">Oral presentation at COPA 2024.</p>
+  <p class="item-desc">Oral presentation at COPA 2024</p>
 {% comment %}
 Optional links (add only if needed):
 <p class="item-links"><a href="URL">Conference Page</a> · <a href="URL">Slides</a></p>
@@ -50,7 +64,7 @@ Optional links (add only if needed):
   
 ### Quantifying Deep Learning Model Uncertainty in Conformal Prediction
 
-  <p class="item-desc">Oral presentation at AAAI Human AI 2023.</p>
+  <p class="item-desc">Oral presentation at AAAI Human AI 2023</p>
   
   <div class="cv-meta">
     <span class="where">AAAI Symposium: Human Partnership with Medical Artificial Intelligence (Human AI 2023), Singapore EXPO, Singapore</span>
@@ -59,7 +73,7 @@ Optional links (add only if needed):
 
 ### Evidence-based Subjective Classification Cost in Deep Neural Networks
 
-  <p class="item-desc">Poster presentation at the Vector Institute Research Symposium.</p>
+  <p class="item-desc">Poster presentation at the Vector Institute Research Symposium</p>
   
   <div class="cv-meta">
     <span class="where">Vector Institute Research Symposium, Toronto, ON, Canada</span>
@@ -68,7 +82,7 @@ Optional links (add only if needed):
 
 ### Subjective Uncertainty in Federated Learning
 
-  <p class="item-desc">Poster presentation at the Vector Institute Research Symposium.</p>
+  <p class="item-desc">Poster presentation at the Vector Institute Research Symposium</p>
   
   <div class="cv-meta">
     <span class="where">Vector Institute Research Symposium, Toronto, ON, Canada</span>
@@ -78,7 +92,7 @@ Optional links (add only if needed):
 
 ### Ontology Alignment Using Inductive Logic Programming
 
-  <p class="item-desc">Oral presentation at ICWR.</p>
+  <p class="item-desc">Oral presentation at ICWR</p>
   
   <div class="cv-meta">
     <span class="where">International Conference on Web Research (ICWR), Tehran, Iran</span>
