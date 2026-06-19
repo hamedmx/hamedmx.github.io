@@ -155,6 +155,12 @@ Designing Lab Materials: Course Project and Lab Assignments/Tasks in Addition to
   <span class="when">Fall 2012 – Summer 2015</span>
 </div>
 
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
 
 # Mentorship and Supervision
 
