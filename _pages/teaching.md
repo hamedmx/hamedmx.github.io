@@ -179,7 +179,7 @@ I have mentored M.Sc. students on machine learning research projects, including 
   <span class="when">Summer 2026</span>
 </div>
 <div style="text-align: justify;">
-As part of the <a href="https://www.ai4goodlab.com/">AI4Good Lab</a> machine learning summer school (AI boot­camp), I mentored and coordinated a group of undergraduate students from various universities working on applied ML projects, supporting them from learning ML concepts and project scoping to final presentation.
+As part of the <a href="https://www.ai4goodlab.com/" target="_blank">AI4Good Lab</a> machine learning summer school (AI boot­camp), I mentored and coordinated a group of undergraduate students from various universities working on applied ML projects, supporting them from learning ML concepts and project scoping to final presentation.
 </div>
 
 
