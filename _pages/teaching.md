@@ -156,3 +156,12 @@ Designing Lab Materials: Course Project and Lab Assignments/Tasks in Addition to
 </div>
 
 
+# Mentorship and Supervision
+
+I have mentored graduate and undergraduate students on machine learning research and applied AI projects. My mentoring focuses on helping students formulate research questions, design experiments, implement models, evaluate results, and communicate their findings clearly.
+
+## Graduate Mentorship
+I have mentored MSc students on machine learning research projects, including experimental design, implementation, evaluation, and research presentation.
+
+## Undergraduate Mentorship
+As part of the AI4Good Lab Machine Learning Summer School, I mentored and coordinated a group of undergraduate students from various universities working on applied ML projects, supporting them from learning ML concepts and project scoping to final presentation.
