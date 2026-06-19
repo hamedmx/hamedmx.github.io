@@ -67,7 +67,7 @@ Optional links:
 
 <div class="cv-meta">
   <span class="where">Teaching Assistant</span>
-  <span class="when">Fall 2021 – Present</span>
+  <span class="when">Fall 2021 – Winter 2026</span>
 </div>
 
 
@@ -77,7 +77,7 @@ Designing Lab Materials: Course Project and Lab Assignments/Tasks in Addition to
 
 <div class="cv-meta">
   <span class="where">Teaching Assistant</span>
-  <span class="when">Winter 2022 – Present</span>
+  <span class="when">Winter 2022 – Winter 2026</span>
 </div>
 
 
