@@ -75,6 +75,11 @@ author_profile: true
   <span class="when">2023 - 2024</span>
 </div>
 
+<div class="cv-meta">
+  <span class="where">AAAI Human-AI Symposium</span>
+  <span class="when">2023</span>
+</div>
+
 ### Journal Reviewer
 
 - Pattern Recognition (Elsevier)
