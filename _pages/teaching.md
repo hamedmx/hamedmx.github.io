@@ -95,7 +95,7 @@ Designing Lab Materials: Course Project and Lab Assignments/Tasks in Addition to
 
 <div class="cv-meta">
   <span class="where">Part-time Professor</span>
-  <span class="when">Fall 2024 – Present</span>
+  <span class="when">Fall 2024 – Fall 2025</span>
 </div>
 
 
