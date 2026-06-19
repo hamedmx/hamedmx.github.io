@@ -78,7 +78,7 @@ author_profile: true
 ### Journal Reviewer
 
 - Pattern Recognition (Elsevier)
-- IEEE Access (The Multidisciplinary Open Access Journal)
+- IEEE Access
 <div class="cv-meta">
   <span class="where"></span>
   <span class="when"></span>
